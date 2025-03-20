@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, Me chamo Gabriel Fernandes Gonzalez de Melo, tenho 18 anos e sou natural de Santo André SP. Concluí o ensino médio no Colégio DR.Clóvis Bevilaqua, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Estacio de Sá. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "www.linkedin.com/in/gabriel-de-melo-474b72271".
+Olá, Me chamo Gabriel Fernandes Gonzalez de Melo, tenho 18 anos e sou natural de Santo André SP. Concluí o ensino médio no Colégio Dr. Clóvis Bevilaqua, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na Estacio de Sá. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "www.linkedin.com/in/gabriel-de-melo-474b72271".
 
 
 
@@ -85,7 +85,7 @@ Olá, Me chamo Gabriel Fernandes Gonzalez de Melo, tenho 18 anos e sou natural d
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
-/>
+
 <img 
     align="left" 
     alt="MySQL" 
