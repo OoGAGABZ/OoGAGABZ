@@ -111,11 +111,5 @@ Olá, Me chamo Gabriel Fernandes Gonzalez de Melo, tenho 18 anos e sou natural d
     src="https://github-readme-stats.vercel.app/api?username=OoGAGABZ&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OoGAGABZ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
