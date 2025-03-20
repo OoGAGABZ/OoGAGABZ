@@ -88,8 +88,8 @@ Olá, Me chamo Gabriel Fernandes Gonzalez de Melo, tenho 18 anos e sou natural d
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
